@@ -1,12 +1,13 @@
 
-# Setting up a Professional Data Science Environment - Installation
+# Setting up a Professional Data Science Environment
 
 ## Introduction
-If you might want to become a professional data scientist, it’s important to take a little time to “set yourself up for success” by installing and learning to use the right tools on your computer. If you already have Git and Anaconda installed, feel free to jump down to the cloning, virtual environment setup and testing towards the bottom of the page.
+If you want to become a professional data scientist, it’s important to take a little time to “set yourself up for success” by installing and learning to use the right tools on your computer. In this lesson, you will install Git and Anaconda and in the next lesson you will setup a virtual environment. If you already have Git and Anaconda installed, feel free to skip to the next lesson to get started with cloning, virtual environment setup, and testing!
 
 ## Objectives
 You will be able to:
-* Install a professional data science environment
+* Install Git
+* Install Anaconda
 
 ## What Tools do Professional Data Scientists Use?
 * **Python** - There are many languages that can be used for data science, but these days most data scientists are using Python to write their code.
@@ -289,4 +290,4 @@ You’ll then have to hit “y” and return to confirm that you want to close d
 
 ## Summary
 
-Congratulations! If you've gotten this far and everything has worked, you have a great baseline setup for working as a professional data scientist!
+Congratulations! If you've gotten this far and everything has worked, you have successfully installed Git and Anaconda on your computer! Next, you'll learn what a virtual environment is and set one up!
